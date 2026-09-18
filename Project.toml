@@ -1,7 +1,7 @@
 name = "DiffEqFlux"
 uuid = "aae7a2af-3d4f-5e19-a356-7da93b79d9d0"
-authors = ["Chris Rackauckas <accounts@chrisrackauckas.com>"]
 version = "3.3.0"
+authors = ["Chris Rackauckas <accounts@chrisrackauckas.com>"]
 
 [deps]
 ADTypes = "47edcb42-4c32-4615-8424-f2b9edc5f35b"
@@ -45,7 +45,7 @@ PrecompileTools = "1"
 Random = "<0.0.1, 1"
 RecursiveArrayTools = "2, 3"
 Reexport = "0.2, 1"
-SciMLBase = "1, 2"
+SciMLBase = "1, 2, 3"
 SciMLSensitivity = "7"
 Tracker = "0.2.29"
 Zygote = "0.6"
